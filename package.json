@@ -83,6 +83,7 @@
     }
   },
   "devDependencies": {
-    "cf": "1.0.0-beta.14"
+    "cf": "1.0.0-beta.14",
+    "wrangler": "^4.110.0"
   }
 }
